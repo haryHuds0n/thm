@@ -1,5 +1,10 @@
 ## Linux Fundametal Part 2
 
+<p align="center">
+  <img title="portainer" src='https://www.thedutchhacker.com/wp-content/uploads/2021/09/Linux-Fundamentals-Part-2.png' width=700 />
+</p>
+
+
 ### Task 3 Introduction to Flags and Switches
 
 1. **What directional arrow key would we use to navigate down the manual page?**

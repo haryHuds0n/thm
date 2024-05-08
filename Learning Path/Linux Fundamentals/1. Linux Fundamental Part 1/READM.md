@@ -1,5 +1,8 @@
 ## Linux Fundametal Part 1
 
+<p align="center">
+  <img title="portainer" src='https://www.thedutchhacker.com/wp-content/uploads/2021/09/Linux-Fundamentals-Part-1.png' width=700 />
+</p>
 
 ### Task 2 A bit of Background on Linux
 
