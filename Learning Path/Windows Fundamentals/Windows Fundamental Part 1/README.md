@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img title="windows" src='https://i.ytimg.com/vi/Z0oo30xjF2U/maxresdefault.jpg'/>
+  <img title="windows" src='windows-fundamentals-1.png'/>
 </p>
 
 ### Task 2 Windows Editions
